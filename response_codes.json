@@ -1,0 +1,5 @@
+[
+  { "code": "51-BA", "description": "Insufficient Balance" },
+  { "code": "A2", "description": "Saldo insuficiente" },
+  { "code": "51", "description": "Tarjeta bloqueada" }
+]
